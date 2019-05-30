@@ -13,7 +13,7 @@ tags:
 
 
 
-# [Watch Rick and Morty From Here！！！](https://www.adultswim.com/streams/rick-and-morty)
+# [Click Here！！！](https://www.adultswim.com/streams/rick-and-morty)
 
 
 <br>
