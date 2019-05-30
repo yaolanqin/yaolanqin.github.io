@@ -26,8 +26,20 @@
         <entry file="file://$PROJECT_DIR$/2019-05-30-The-Inception-family.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1178">
-                <caret line="75" selection-start-line="75" selection-end-line="75" />
+              <first_editor relative-caret-position="890">
+                <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="774">
+                <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,11 +47,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
+        <entry file="file://$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="738">
-                <caret line="41" column="101" lean-forward="true" selection-start-line="41" selection-start-column="101" selection-end-line="41" selection-end-column="101" />
+              <first_editor relative-caret-position="198">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,13 +70,14 @@
         <option value="$PROJECT_DIR$/2019-05-30 The Inception family.md" />
         <option value="$PROJECT_DIR$/2019-05-30-The-Inception-family.md" />
         <option value="$PROJECT_DIR$/2019-05-31-The-LiDAR.md" />
+        <option value="$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="2119" />
+    <option name="x" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="2120" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,6 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,7 +97,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,8 +172,8 @@
     <entry file="file://$PROJECT_DIR$/2019-05-30-The-Inception-family.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1178">
-            <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <first_editor relative-caret-position="890">
+            <caret line="59" column="9" lean-forward="true" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -169,8 +182,18 @@
     <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="738">
-            <caret line="41" column="101" lean-forward="true" selection-start-line="41" selection-start-column="101" selection-end-line="41" selection-end-column="101" />
+          <first_editor relative-caret-position="774">
+            <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
