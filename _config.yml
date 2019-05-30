@@ -99,20 +99,14 @@ service-worker: true
 # profile
 friends: [
   {
-        title: "WATERLOO COGNITIVE AUTONOMOUS DRIVING (COGDRIVE) LAB",
+        title: "WATERLOO COGNITIVE AUTONOMOUS DRIVING LAB",
         href: "https://uwaterloo.ca/cognitive-autonomous-driving-lab/"
     },{
-        title: "About CogDrive Lab",
+        title: "CogDrive Website",
         href: "https://www.cogdrive.ai/"
     },{
         title: "My Profile",
         href: "https://www.linkedin.com/in/yaodong-cui-5b8a70158/"
-    },{
-        title: "Prof. Dongpu Cao",
-        href: " https://uwaterloo.ca/scholar/dongpu/home"
-   
     }
-    
-    
     
 ]
