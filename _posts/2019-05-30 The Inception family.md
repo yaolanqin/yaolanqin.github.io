@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      为博客添加 Gitalk 评论插件
-subtitle:   BY Blog 添加 Gitalk 的评论插件了
-date:       2017-12-19
-author:     BY
+title:      The Inception Family: Going Deeper
+subtitle:   Building a deep neural network from Inception
+date:       2019-05-30
+author:     yaodong cui
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
@@ -11,17 +11,23 @@ tags:
 ---
 
 
-## 前言
+## Background
 
-由于 **Disqus** 对于国内网路的支持十分糟糕，很多人反映 Disqus 评论插件一直加载不出来。而我一直是处于翻墙状态的~（话说你们做程序员的都不翻墙用Google的吗😅，哈哈，吐嘈下）
+In 2014, a team in Google proposed a convolutional neural network architecture, called GoogLeNet or  [Inception](https://arxiv.org/abs/1409.4842) , which increase the depth and width of the network while maintaining the computational expense. 
 
-针对这个问题，我添加了[Gitalk](https://github.com/gitalk/gitalk) 评论插件。在此，非常感谢 [@FeDemo](https://github.com/FeDemo) 的推荐 。
 
-## 正文
+##  The Inception Family
 
-### Gitalk 评论插件
+### Inception V1：Go Deeper
 
-首先来看看 Gitalk 的界面和功能：
+The network achieves this with several techniques including 1 X  1 convolution, Inception modules and global average pooling. 
+
+The 1 X 1 Convolution is used to reduce computation bottleneck by dimension reduction. The Inception modules, as shown in Fig.1, concatenates the results 1 X 1 Convolution, 3 X 3 Convolution,5 X 5 Convolution and X 3 max pooling, while using 1 X 1 Convolution for dimensionality reduction.
+Instead of the fully connected layers, the global average pooling is used at the end of the network to reduce the number of weights.
+
+![Fig.1 ](https://ws4.sinaimg.cn/large/006tKfTcgy1fmm596ggkfj30mx0gfjuk.jpg)
+
+The GoogLeNet also employs auxiliary classifier during the training process. Therefore, the total loss function is a weighted sum of the final loss and auxiliary loss. This methodology can prevent vanishing gradient problem and provide regularization. 
 
 [![](https://ws4.sinaimg.cn/large/006tKfTcgy1fmm4u3j0lmj30nk0kl40i.jpg)](https://gitalk.github.io/)
 
@@ -29,13 +35,8 @@ gitalk 使用 Github 帐号登录，界面干净整洁，最喜欢的一点是�
 
 ### 原理
 
-Gitalk 是一个利用 Github API,基于 Github issue 和 Preact 开发的评论插件，在 Gitalk 之前还有一个 [gitment](https://github.com/imsun/gitment) 插件也是基于这个原理开发的,不过 gitment 已经很久没人维护了。
 
-可以看到在 gitalk 的评论框进行评论时，其实就是在对应的 issue 上提问题。
 
-![gitalk评论框](https://ws4.sinaimg.cn/large/006tKfTcgy1fmm5916av1j30i209rab7.jpg)
-
-![Github issue](https://ws4.sinaimg.cn/large/006tKfTcgy1fmm596ggkfj30mx0gfjuk.jpg)
 
 
 ### 集成 Gitalk
