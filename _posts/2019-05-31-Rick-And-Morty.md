@@ -19,7 +19,6 @@ tags:
 <br>
 <div  align="center"> 
     <img 
-    src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/post-bg-rickandmorty3.jpg"
+    src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190601/lookatme.gif"
     width = "600" height = "300"></div>
-
 <br>
