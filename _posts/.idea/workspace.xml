@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="774">
-                <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+              <first_editor relative-caret-position="594">
+                <caret line="33" column="86" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="86" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,8 +50,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="342">
+                <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="1939" />
     <option name="height" value="2120" />
@@ -129,7 +129,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="3086" height="1702" extended-state="6" />
+    <frame x="-7" y="-7" width="3086" height="1702" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07704918" />
@@ -182,8 +182,8 @@
     <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="774">
-            <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <first_editor relative-caret-position="594">
+            <caret line="33" column="86" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="86" />
           </first_editor>
           <second_editor />
         </state>
@@ -192,8 +192,8 @@
     <entry file="file://$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>

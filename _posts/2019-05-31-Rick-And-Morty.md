@@ -11,16 +11,15 @@ tags:
 ---
 
 
-# Watch Rick and Morty From Here
 
 
-[Watch Rick and Morty Here！！！](https://www.adultswim.com/streams/rick-and-morty)
+# [Watch Rick and Morty From Here！！！](https://www.adultswim.com/streams/rick-and-morty)
 
 
 <br>
 <div  align="center"> 
     <img 
-    src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/img/post-bg-rickandmorty.jpg"
-    width = "300" height = "400"></div>
+    src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/post-bg-rickandmorty3.jpg"
+    width = "600" height = "300"></div>
 
 <br>
