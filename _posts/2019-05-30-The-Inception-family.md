@@ -33,10 +33,7 @@ Instead of the fully connected layers, the global average pooling is used at the
 <img src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190530/InceptionV101.png"
    width = "300" height = "300"> </div>
  <br>
- <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig.1  Inception module with 1 X 1 Convolution</div>
+ <div align="center">Fig.1  Inception module with 1 X 1 Convolution</div>
 
 
 
@@ -66,11 +63,7 @@ The General design principles employed by Inception V2 are :
     src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190530/InceptionV2.png"
     width = "300" height = "300"> </div>
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;
-    align=center;">Fig.2   Inception V2 module with 5 X 5 convolution replaced by two 3 X 3 convolution.</div>
+ <div align="center">Fig.2   Inception V2 module with 5 X 5 convolution replaced by two 3 X 3 convolution.</div>
 
 
 ####spatial factorization into asymmetric convolutions
@@ -81,7 +74,7 @@ The author takes factorization a step further into asymmetric convolutions, name
     src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190530/InceptionV2factorization.png"
     width = "300" height = "400"></div>
     <br>
-    <div align="center">Fig.3  Inception V2 module with asymmetric convolutionsn.</div>
+ <div align="center">Fig.3  Inception V2 module with asymmetric convolutionsn.</div>
 
 
 ####Why go deeper when you can go wider
@@ -92,7 +85,7 @@ The Inception V2 also attempts to eliminate the information bottleneck with goin
     src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190530/InceptionV2highrepresentation.png"
     width = "300" height = "300"></div>
     <br>
-    <div align="center">Fig.4   Inception V2 module with expanded filter bank outputs.</div>
+ <div align="center">Fig.4   Inception V2 module with expanded filter bank outputs.</div>
     
 # Conclusion
 
