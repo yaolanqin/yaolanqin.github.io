@@ -96,13 +96,19 @@ service-worker: true
 
 
 
-# Friends
-friends: [
+# profile
+About Me: [
   {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "WATERLOO COGNITIVE AUTONOMOUS DRIVING (COGDRIVE) LAB",
+        href: "https://uwaterloo.ca/cognitive-autonomous-driving-lab/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "About CogDrive Lab",
+        href: "https://www.cogdrive.ai/"
+    },{
+        title: "My Profile",
+        href: "https://www.linkedin.com/in/yaodong-cui-5b8a70158/"
     }
+    
+    
+    
 ]
