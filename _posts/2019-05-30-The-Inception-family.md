@@ -72,41 +72,25 @@ The General design principles employed by Inception V2 are :
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Fig.1  Inception module with 1 X 1 Convolution</div>
+    padding: 2px;
+    align=center;">Fig.2  Inception module with 1 X 1 Convolution</div>
 </div>
 
 
-###
+####spatial factorization into asymmetric convolutions
+The author takes factorization a step further into asymmetric convolutions, namely use n X 1 convolution. For instance, implement 3 X 1 convolution followed by a 1 X 3 convolution is equivalent to a 3 X 3 convolution, while saving 33% computational expense. This idea is very similar to the concept of depthwise separable convolution proposed by MobileNet in 2017.
+
+<div  align="center"> 
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/img/InceptionV2factorization.png"
+    width = "300" height = "400"></div>
+    <br>
+    <div align="center">Fig.3  Inception V2 module with 5 X 5 convolution replaced by two 3 X 3 convolution.</div>
 
 
-
-
-```js
-<!-- Gitalk 评论 start  -->
-{% if site.gitalk.enable %}
-<!-- Link Gitalk 的支持文件  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-    <script type="text/javascript">
-    var gitalk = new Gitalk({
-
-    // gitalk的主要参数
-		clientID: `Github Application clientID`,
-		clientSecret: `Github Application clientSecret`,
-		repo: `存储你评论 issue 的 Github 仓库名`,
-		owner: 'Github 用户名',
-		admin: ['Github 用户名'],
-		id: '页面的唯一标识，gitalk会根据这个标识自动创建的issue的标签',
-    
-    });
-    gitalk.render('gitalk-container');
-</script>
-{% endif %}
-<!-- Gitalk end -->
-```
-
+####Why go deeper when you can go wider
+The Inception V2 also attempts to eliminate the information bottleneck with going wider, as shown in Fig.4. The notion is that if the model is made to be deeper, it would need to reduce data dimension, which could lead to information loss. The author proposes to expand the filter banks to avoid the representational bottleneck.
 
 
 # Conclusion
