@@ -97,7 +97,7 @@ service-worker: true
 
 
 # profile
-About Me: [
+Friends: [
   {
         title: "WATERLOO COGNITIVE AUTONOMOUS DRIVING (COGDRIVE) LAB",
         href: "https://uwaterloo.ca/cognitive-autonomous-driving-lab/"
