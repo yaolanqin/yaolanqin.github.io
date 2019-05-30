@@ -14,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-30 The Inception family.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="620">
-                <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <first_editor relative-caret-position="162">
+                <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,8 +36,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1167" />
-    <option name="y" value="-18" />
+    <option name="x" value="1263" />
+    <option name="y" value="-9" />
     <option name="width" value="1377" />
     <option name="height" value="943" />
   </component>
@@ -169,8 +169,8 @@
     <entry file="file://$PROJECT_DIR$/2019-05-30 The Inception family.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="620">
-            <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>

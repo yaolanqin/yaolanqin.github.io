@@ -7,7 +7,10 @@ author:     yaodong cui
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - Blog
+    - Deep learning
+    - Image Processing
+    - Inception
+    - Batch Normalization
 ---
 
 
