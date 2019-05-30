@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="486">
-                <caret line="27" selection-start-line="27" selection-end-line="40" />
+              <first_editor relative-caret-position="468">
+                <caret line="26" column="277" selection-start-line="26" selection-start-column="277" selection-end-line="26" selection-end-column="277" />
               </first_editor>
               <second_editor />
             </state>
@@ -192,8 +192,8 @@
     <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="486">
-            <caret line="27" selection-start-line="27" selection-end-line="40" />
+          <first_editor relative-caret-position="468">
+            <caret line="26" column="277" selection-start-line="26" selection-start-column="277" selection-end-line="26" selection-end-column="277" />
           </first_editor>
           <second_editor />
         </state>
