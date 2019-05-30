@@ -30,10 +30,10 @@ Instead of the fully connected layers, the global average pooling is used at the
 
 
 <div  align="center"> 
-    <img src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190530/InceptionV101.png"
-    width = "300" height = "300"> </div>
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+<img src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/post_img/190530/InceptionV101.png"
+   width = "300" height = "300"> </div>
+ <br>
+ <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
     padding: 2px;">Fig.1  Inception module with 1 X 1 Convolution</div>
