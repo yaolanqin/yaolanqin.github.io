@@ -1,5 +1,3 @@
-
-
 ---
 layout:     post
 title:      The Inception Family-Going Deeper
