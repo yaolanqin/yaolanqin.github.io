@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     Come and Watch Rick and Morty For Free!
+title:     Come and Watch Rick and Morty!
 subtitle:   Time To Get Schwifty
 date:       2019-06-01
 author:     Yaodong Cui
