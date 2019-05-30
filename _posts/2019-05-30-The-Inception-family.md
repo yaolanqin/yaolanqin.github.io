@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The Inception Family: Going Deeper
+title:      The Inception Family-Going Deeper
 subtitle:   Building a deep neural network from Inception
 date:       2019-05-30
 author:     yaodong cui
