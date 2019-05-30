@@ -1,5 +1,18 @@
 ---
 layout:     post
+title:      Xcode命令行工具管理
+subtitle:   如何切换Xcode命令行工具
+date:       2018-05-05
+author:     BY
+header-img: img/post-bg-kuaidi.jpg
+catalog: true
+tags:
+    - Xcode
+    - iOS
+---
+
+---
+layout:     post
 title:      The Inception Family-Going Deeper
 subtitle:   Building a deep neural network from Inception
 date:       2019-05-30
