@@ -30,9 +30,7 @@ Instead of the fully connected layers, the global average pooling is used at the
 
 
 <div  align="center"> 
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/img/InceptionV101.png"
+    <img src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/img/InceptionV101.png"
     width = "300" height = "300">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -64,8 +62,7 @@ The General design principles employed by Inception V2 are :
 - Balance the width and depth of the network.
 
 <div  align="center"> 
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img 
     src="https://raw.githubusercontent.com/yaodongC/yaodongC.github.io/master/img/InceptionV2.png"
     width = "300" height = "300">
     <br>
