@@ -99,7 +99,7 @@ service-worker: true
 # profile
 friends: [
   {
-        title: "WATERLOO COGNITIVE AUTONOMOUS DRIVING LAB",
+        title: "Waterloo Cognitive Autonomous Driving Lab",
         href: "https://uwaterloo.ca/cognitive-autonomous-driving-lab/"
     },{
         title: "CogDrive Website",
