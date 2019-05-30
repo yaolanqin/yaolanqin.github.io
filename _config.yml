@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 8df24526ce0509b512cb                            #生成的clientID
-  clientSecret: 172e462920afe84b7376439e587b45875647599e    #生成的clientSecret
+  clientID: 50878e973746012ebd43                            #生成的clientID
+  clientSecret: ecd2e40e44cbe001595e3c10d8ffded0288e4657    #生成的clientSecret
   repo: yaodongc.github.io    #仓库名称
-  owner: cuiyaodong    #github用户名
-  admin: cuiyaodong
+  owner: yaodongc    #github用户名
+  admin: yaodongc
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -104,9 +104,6 @@ friends: [
     },{
         title: "CogDrive Website",
         href: "https://www.cogdrive.ai/"
-    },{
-        title: "My Profile",
-        href: "https://www.linkedin.com/in/yaodong-cui-5b8a70158/"
     }
     
 ]
