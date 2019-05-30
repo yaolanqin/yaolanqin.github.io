@@ -4,7 +4,7 @@ title:      The Inception Family-Going Deeper
 subtitle:   Building a deep neural network from Inception
 date:       2019-05-30
 author:     yaodong cui
-header-img: img/post-bg-universe.jpg
+header-img: img/post-bg-balls.jpg
 catalog: true
 tags:
     - Deep learning
