@@ -1,18 +1,18 @@
 # Site settings
-title: Yaodong's Blog
-SEOTitle: 曜东的博客 | Yaodong's Blog
+title: Lanqin's Blog
+SEOTitle: 姚兰琴的博客 | Lanqin's Blog
 header-img: img/post-bg-desk.jpg
-email: yaodong.cui@uwaterloo.ca
+email: 1395483017@qq.com
 description: "wubalubadubdub!"
-keyword: "yaodong, LiDAR, 曜东的博客, 激光雷达, 崔曜东, 自动驾驶, AI, 深度学习"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "姚兰琴，姚远，yaolanqin"
+url: "http://yaolanqin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: " " # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-walle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 50878e973746012ebd43                            #生成的clientID
-  clientSecret: ecd2e40e44cbe001595e3c10d8ffded0288e4657    #生成的clientSecret
-  repo: yaodongc.github.io    #仓库名称
-  owner: yaodongc    #github用户名
-  admin: yaodongc
+  clientID: dfffb5389e7db9a3c6d6                            #生成的clientID
+  clientSecret: c9b369a6e033154001a914d6ee577229ace69ffc    #生成的clientSecret
+  repo: yaolanqin.github.io    #仓库名称
+  owner: yaolanqin    #github用户名
+  admin: yaolanqin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,11 +99,8 @@ service-worker: true
 # profile
 friends: [
   {
-        title: "Waterloo Cognitive Autonomous Driving Lab",
-        href: "https://uwaterloo.ca/cognitive-autonomous-driving-lab/"
-    },{
-        title: "CogDrive Website",
-        href: "https://www.cogdrive.ai/"
+        title: "Yaodong Cui",
+        href: "https://yaodong.live/"
     }
     
 ]
