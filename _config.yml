@@ -1,7 +1,7 @@
 # Site settings
-title: Lanqin's Blog
-SEOTitle: 姚兰琴的博客 | Lanqin's Blog
-header-img: img/post-bg-desk.jpg
+title: lanqin's Blog
+SEOTitle: 姚兰琴的博客 | lanqin's Blog
+header-img: img/post-bg-walle.jpg
 email: 1395483017@qq.com
 description: "wubalubadubdub!"
 keyword: "姚兰琴，姚远，yaolanqin"
@@ -12,7 +12,7 @@ github_repo: " " # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-walle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
