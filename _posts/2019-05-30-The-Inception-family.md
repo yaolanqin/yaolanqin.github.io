@@ -5,6 +5,7 @@ subtitle:   Building a deep neural network from Inception
 date:       2019-05-30
 author:     Yaodong Cui
 header-img: img/post-bg-balls.jpg
+header-mask: 0.5
 catalog: true
 tags:
     - Deep learning

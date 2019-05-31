@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57d67ad2-b15f-42d3-b05c-2ab28ecf52b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-05-30-The-Inception-family.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019-05-30-The-Inception-family.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md" beforeDir="false" afterPath="$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-30-The-Inception-family.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1062">
-                <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+              <first_editor relative-caret-position="126">
+                <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="263">
-                <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+              <first_editor relative-caret-position="126">
+                <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="6" column="10" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="10" />
+              <first_editor relative-caret-position="252">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -70,9 +71,9 @@
       <list>
         <option value="$PROJECT_DIR$/2019-05-30 The Inception V1 Going Deeper.md" />
         <option value="$PROJECT_DIR$/2019-05-30 The Inception family.md" />
+        <option value="$PROJECT_DIR$/2019-05-31-The-LiDAR.md" />
         <option value="$PROJECT_DIR$/2019-05-30-The-Inception-family.md" />
         <option value="$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md" />
-        <option value="$PROJECT_DIR$/2019-05-31-The-LiDAR.md" />
       </list>
     </option>
   </component>
@@ -134,7 +135,7 @@
     <frame x="-7" y="-7" width="1513" height="973" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09803922" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27721435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -171,21 +172,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-05-30-The-Inception-family.md">
+    <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1062">
-            <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="126">
+            <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-05-31-The-LiDAR.md">
+    <entry file="file://$PROJECT_DIR$/2019-05-30-The-Inception-family.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="263">
-            <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -194,8 +195,8 @@
     <entry file="file://$PROJECT_DIR$/2019-05-31-Rick-And-Morty.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="6" column="10" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="10" />
+          <first_editor relative-caret-position="252">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>

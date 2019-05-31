@@ -5,6 +5,7 @@ subtitle:   Time To Get Schwifty
 date:       2019-06-01
 author:     Yaodong Cui
 header-img: img/post-bg-rickandmorty3.jpg
+header-mask: 0.5
 catalog: true
 tags:
     -  Rick and Morty
